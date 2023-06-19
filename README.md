@@ -19,7 +19,8 @@ The SRL experiments are located in the `srl` directory.
 Execute `srl.py` with no arguments for a detailed description of the run options.
 This script can be used for training new models, generating predictions from existing models.
 The corpus provided must be the ontonotes corpus 5.0 in CoNLL format -- preparation instructions
-can be found [here](https://cemantix.org/data/ontonotes.html).
+can be found [here](https://cemantix.org/data/ontonotes.html), and preparation scripts can be
+downloaded [here](https://conll.cemantix.org/2012/data.html).
 
 ## Evaluation
 
